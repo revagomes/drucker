@@ -1,0 +1,8 @@
+---
+- src: geerlingguy.git
+- src: geerlingguy.drush
+- src: jdauphant.nginx
+- src: pbuyle.nginx-drupal
+- src: nbz4live.php-fpm
+- src: pbuyle.php-composer
+- src: taller.drupal-kw
